@@ -64,3 +64,5 @@ Reporter: abuse_ch
 MalwareBazaar Link: https://bazaar.abuse.ch/sample/ae2a513b61febc225d5e374ab22dba754a3d38e49b7bbd442fe3f9bab16b8fb1
 
 JaffaCakes118 Analysis: https://jaffacakes118.dev/analysis/ae2a513b61febc225d5e374ab22dba754a3d38e49b7bbd442fe3f9bab16b8fb1
+
+-virustotal public link-https://www.virustotal.com/gui/file/ae2a513b61febc225d5e374ab22dba754a3d38e49b7bbd442fe3f9bab16b8fb1/community
